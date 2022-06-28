@@ -4,11 +4,14 @@
 **Type of dishes : American foods**
 
 **Menu**
+
 - Apple Pie
 
 <img src="https://iambaker.net/wp-content/uploads/2019/08/apple-pie.jpg"
 style=" height: 150px;
   width: 200px;">
+
+[How to make !](https://www.pillsbury.com/everyday-eats/desserts/pies-tarts/how-to-make-apple-pie)
 
 - Hamburger
 
@@ -16,6 +19,7 @@ style=" height: 150px;
 style=" height: 200px;
   width: 200px;">
 
+[How to make !](https://www.thewholesomedish.com/the-best-classic-burger/)
 
 - Deep-Dish Pizza
 
@@ -23,6 +27,7 @@ style=" height: 200px;
 style=" height: 150px;
   width: 200px;">
 
+[How to make !](https://sallysbakingaddiction.com/how-to-make-chicago-style-deep-dish-pizza/)
 
 - Tacos
 
@@ -30,5 +35,6 @@ style=" height: 150px;
 style=" height: 150px;
   width: 200px;">
 
+[How to make !](https://www.bettycrocker.com/recipes/easy-beef-tacos/426c261d-b2eb-4e22-9cba-0066f3335591)
 
 
