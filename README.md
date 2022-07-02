@@ -42,3 +42,6 @@ style=" height: 150px;
 
 ![wireframe](https://user-images.githubusercontent.com/47069501/176479496-8930f565-5afd-48c9-b544-72c799beac85.png)
 
+# Menu wireframe
+
+![menu wireframe](./assets/menu%20wireframe.png)
