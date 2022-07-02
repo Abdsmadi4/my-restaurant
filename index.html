@@ -4,9 +4,68 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+      #footer {
+          position: fixed;
+          padding: 10px 10px 0px 10px;
+          bottom: 0;
+          width: 100%;
+          /* Height of the footer*/ 
+          height: 40px;
+          background: rgb(224, 202, 202);
+      }
+  </style>
+    <title>Meat You There</title>
 </head>
 <body>
-      
+    
+      <header>
+        
+            <nav>
+                <img src="./assets/Meat You There.png" alt="navbarlogo" height="75px" width="80px">
+                <h3>Meat You There</h3>
+                <ul> 
+                    <li><a href="./index.html">Home</a></li>
+                    <li><a href="./Menu.html">Menu</a></li>
+                    <li><a href="./about.html">About</a></li>
+                </ul>
+                <link rel="stylesheet" 
+                href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                <form class="example" action="action_page.php">
+                    <input type="text" placeholder="Search.." name="search">
+                    <button type="submit"><i class="fa fa-search"></i></button>
+                </form>
+            </nav>
+        
+      </header>
+   
+    
+      <main>
+        <div id='container'>
+            <img src='./assets/burger.jpg' alt="Burger" style='float:right;' height="400px" width="600px"/>
+            <img src='./assets/pizza.jpg' alt="Pizza" style='float:right;'height="400px" width="600px"/>
+            <img src='./assets/tacos.jpg' alt="Tacos"  style='float:right;'height="400px" width="600px"/>
+            <img src='./assets/applePie.jpg' alt="Apple Pie" style='float:right;'height="400px" width="600px"/>
+
+              <h2>
+                Menu
+              </h2>
+              <ol>
+                <li>Burger</li>
+                <li>Pizza</li>
+                <li>Apple Pie</li>
+                <li>Tacos</li>
+              </ol>
+            
+           </div>
+      </main>
+    
+      <footer id="footer">
+        <a href="#" class="fa fa-facebook"></a>  
+        <a href="#" class="fa fa-instagram"></a> 
+        <a href="#" class="fa fa-twitter"></a>  
+        <i class="fa fa-map-marker" aria-hidden="true"></i>
+      </footer>
 </body>
 </html>
