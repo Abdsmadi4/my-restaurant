@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(226, 199, 199);
+}
+ul{
+    text-align: right;
+    min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+}
+ul li {
+    display: inline;
+}
+span{
+    border: 50px;
+    margin-top: 20px;
+}
+nav{
+    display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+section{
+    text-align: center;
+}
+img{
+    padding: 2%;
+}
+.logo{
+    margin-left: 0% ;
+    
+}
